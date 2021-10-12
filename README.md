@@ -1,3 +1,2 @@
-I tried...
-
-Feel free to make your own pull request for custom tips!
+Original repo for this amazing project:
+https://github.com/windows93-community/Build3D
